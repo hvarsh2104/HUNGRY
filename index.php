@@ -28,7 +28,7 @@ if (!isset($_SESSION['username'])) {
         <div class="container">
             <div class="logo">
                 <a href="#" title="Logo">
-                    <img src="img/logo.png" alt="Restaurant Logo" class="img-responsive">
+                    <img src="logo.png" alt="Restaurant Logo" class="img-responsive">
                 </a>
             </div>
 
@@ -84,7 +84,7 @@ if (!isset($_SESSION['username'])) {
 
             <a href="category-foods.html">
             <div class="box-3 float-container">
-                <img src="img/pizza.png" alt="Pizza" class="img-responsive img-curve">
+                <img src="pizza.png" alt="Pizza" class="img-responsive img-curve">
 
                 <h3 class="float-text text-white">Pizza</h3>
             </div>
@@ -92,7 +92,7 @@ if (!isset($_SESSION['username'])) {
 
             <a href="#">
             <div class="box-3 float-container">
-                <img src="img/burger.png" alt="Burger" class="img-responsive img-curve">
+                <img src="burger.png" alt="Burger" class="img-responsive img-curve">
 
                 <h3 class="float-text text-white">Burger</h3>
             </div>
@@ -100,7 +100,7 @@ if (!isset($_SESSION['username'])) {
 
             <a href="#">
             <div class="box-3 float-container">
-                <img src="img/momos.png" alt="Momo" class="img-responsive img-curve">
+                <img src="momos.png" alt="Momo" class="img-responsive img-curve">
 
                 <h3 class="float-text text-white">Momo</h3>
             </div>
@@ -118,7 +118,7 @@ if (!isset($_SESSION['username'])) {
 
             <div class="food-menu-box">
                 <div class="food-menu-img">
-                    <img src="img/menu-momos.png" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
+                    <img src="menu-momos.png" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
                 </div>
 
                 <div class="food-menu-desc">
@@ -129,13 +129,13 @@ if (!isset($_SESSION['username'])) {
                     </p>
                     <br>
 
-                    <a href="order.html" class="btn btn-primary">Order Now</a>
+                    <a href="order.php" class="btn btn-primary">Order Now</a>
                 </div>
             </div>
 
             <div class="food-menu-box">
                 <div class="food-menu-img">
-                    <img src="img/menu-burger.png" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
+                    <img src="menu-burger.png" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
                 </div>
 
                 <div class="food-menu-desc">
@@ -152,7 +152,7 @@ if (!isset($_SESSION['username'])) {
 
             <div class="food-menu-box">
                 <div class="food-menu-img">
-                    <img src="img/menu-pizza.jpg" alt="Chicke Hawain Burger" class="img-responsive img-curve">
+                    <img src="menu-pizza.jpg" alt="Chicke Hawain Burger" class="img-responsive img-curve">
                 </div>
 
                 <div class="food-menu-desc">
@@ -169,7 +169,7 @@ if (!isset($_SESSION['username'])) {
 
             <div class="food-menu-box">
                 <div class="food-menu-img">
-                    <img src="img/menu-sizzler.jpg" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
+                    <img src="menu-sizzler.jpg" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
                 </div>
 
                 <div class="food-menu-desc">
@@ -186,7 +186,7 @@ if (!isset($_SESSION['username'])) {
 
             <div class="food-menu-box">
                 <div class="food-menu-img">
-                    <img src="img/menu-spizza.png" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
+                    <img src="menu-spizza.png" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
                 </div>
 
                 <div class="food-menu-desc">
@@ -203,7 +203,7 @@ if (!isset($_SESSION['username'])) {
 
             <div class="food-menu-box">
                 <div class="food-menu-img">
-                    <img src="img/menu-wrap.png" alt="Chicke Hawain Momo" class="img-responsive img-curve">
+                    <img src="menu-wrap.png" alt="Chicke Hawain Momo" class="img-responsive img-curve">
                 </div>
 
                 <div class="food-menu-desc">
